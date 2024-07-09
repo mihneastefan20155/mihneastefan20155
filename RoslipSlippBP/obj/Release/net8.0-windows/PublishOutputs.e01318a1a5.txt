@@ -1,0 +1,5 @@
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\publish\RoslipSlippBP.exe
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\publish\RoslipSlippBP.dll
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\publish\RoslipSlippBP.deps.json
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\publish\RoslipSlippBP.runtimeconfig.json
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\publish\RoslipSlippBP.pdb

@@ -1,0 +1,16 @@
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.Form1.resources
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.csproj.GenerateResource.cache
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.AssemblyInfoInputs.cache
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.AssemblyInfo.cs
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.csproj.CoreCompileInputs.cache
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\RoslipSlippBP.exe
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\RoslipSlippBP.deps.json
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\RoslipSlippBP.runtimeconfig.json
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\RoslipSlippBP.dll
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\bin\Release\net8.0-windows\RoslipSlippBP.pdb
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.dll
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\refint\RoslipSlippBP.dll
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.pdb
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\RoslipSlippBP.genruntimeconfig.cache
+C:\Users\Boborel\source\repos\RoslipSlippBP\RoslipSlippBP\obj\Release\net8.0-windows\ref\RoslipSlippBP.dll
