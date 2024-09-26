@@ -1,0 +1,66 @@
+def hack_ios
+  system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphoneos"
+  system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphonesimulator"
+  system "lipo -create build/Release-iphoneos/Hack.app/Hack build/Release-iphonesimulator/Hack.app/Hack -output build/Hack.app/Hack"
+  system "rm
+-rf build/Release-iphoneos build/Release-iphonesimulator"
+end
+
+
+ def hack_ios
+ system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphoneos"
+ system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphonesimulator"
+ system "lipo -create build/Release-iphoneos/Hack.app/Hack build/Release-iphonesimulator/Hack.app/Hack -output build/Hack.app/Hack"
+ system "rm -rf build/Release-iphoneos build/Release-iphonesimulator"
+    end
+
+    def hack iphoneos
+    system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphoneos"
+    end
+    def hack iphonesimulator
+    system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphonesimulator"
+    end
+    def lipo
+    system "lipo -create build/Release-iphoneos/Hack.app/Hack build/Release-iphonesimulator/Hack.app/Hack -output build/Hack.app/Hack"
+    end
+
+    def rm
+    system "rm -
+    -rf build/Release-iphoneos build/Release-iphonesimulator"   
+    end
+
+    source "hack.rb"
+    gem "hack.rb"
+    gem "hack.rb"
+    gem "hack.rb"
+    gem "hack.rb"
+    gem "hack.rb"
+    gem "hack.rb"
+    gem "hack.rb"
+    enf
+    ine
+    end
+
+
+    system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphoneos"
+    system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphonesimulator"
+    system "lipo -create build/Release-iphoneos/Hack.app/Hack build/Release-iphonesimulator/Hack.app/Hack -output build/Hack.app/Hack"
+    system "rm -rf build/Release-iphoneos build/Release-iphonesimulator"
+        end
+
+rb.hack = "hack.rb"
+ile.hack = "hack.rb"
+gem.hack = "hack.rb"
+gem.hack = "hack.rb"
+file.hack = "hack.rb"
+json.hack = "hack.rb"
+json.hack = "hack.rb"
+
+
+file.hack = "hack.rb"
+hack.rb.hack = "hack.rb"
+ system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphone"
+ system "xcodebuild -project Hack.xcodeproj -target Hack -configuration Release -sdk iphonesimulator"
+ set system "lipo -create build/Release-iphoneos/Hack.app/Hack build/Release-iphonesimulator/Hack.app/Hack -output build/Hack.app/Hack"
+ system "rm -rf build/Release-iphoneos build/Release-iphonesimulator"
+end
